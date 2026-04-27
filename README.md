@@ -4,6 +4,7 @@ Includes KPIs like total movies, genres, and directors
 Visuals: line chart, bar chart, donut chart, map
 
 Key Insights:
+
 🔹 Insight 1: Content Growth
 
 Content has increased significantly after 2010, indicating rapid expansion of streaming platforms.
